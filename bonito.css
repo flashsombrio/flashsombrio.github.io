@@ -1,0 +1,83 @@
+
+    body{
+    background-color: black;
+    color: snow;
+    font-family: times new roman;
+    
+    }
+    #introducao{
+        background-image: url("ceu3.jpg");
+    }
+    #portifolio{
+        background-image: url("fundo2.jpg");
+        
+    }
+    #contatos{
+        background-image: url("ceu3.jpg");
+    }
+    h1{
+        
+        text-align: center;
+        
+    }
+    h2{
+        text-align: center;
+    }
+    
+    li{
+        color: Gray;
+    }
+    p{
+        text-indent: 40px;
+        text-align: left;
+        
+    }
+    #eject{
+        height:33px;
+        width: 33px;
+    }
+    #sobre, #jogos, #livros, #animes {
+        border: 4px solid white;
+        text-align: center;
+        
+    }
+    #menu{
+        position: fixed;
+        border-width: 100%;
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        background-color: black;
+        color: white;
+        list-style-type: none;
+        z-index: 4;
+        }
+    nav ul li{
+        display: inline;
+        
+    }
+    
+    #menu ul li a{
+        display: inline-block;
+        padding: 2px 8px;
+        background-color: white;
+        color: black;
+        text-decoration: none;
+        border-bottom: 2px solid;
+        
+        
+        }
+        .container-fluid{
+            width:100%;
+        }
+    .icons{
+        heigth: 150px;
+        width: 100px;
+    }
+    .contacts{
+        
+    }
+    #rodape{
+        background-color: DimGray;
+        text-align: center;
+    }
